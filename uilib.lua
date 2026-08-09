@@ -1,6 +1,6 @@
 --[[
-	Vaehz UI Library
-	Pro of AI
+	skidded lib by wintur
+	and my partner ai slop
 ]]
 
 local TweenService = game:GetService("TweenService")
